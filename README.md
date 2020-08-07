@@ -24,7 +24,12 @@
   2.  In CLI, navigate to this projects directory and run 'npm install' this will install all needed node modules
 
   3. Create a mySQL database with table named burgers wiht 3 colums(id, burger_name, devoured)
-    - port 3306 for database
+
+  4. port 3306 for database
+
+  5. username: root
+
+  5. password for database will need to be set up in connection.js
 
   4. In CLI, run ' node server ' this will start your local server port 8080
 
