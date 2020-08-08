@@ -77,8 +77,7 @@ p{
   text-transform: uppercase;
   border-style: none;
   height: 35px;
-  margin-right: 20px;
-  justify-content: start;
+  
 }
 
 .delete-burger{
@@ -108,7 +107,13 @@ p{
   font-weight: bold;
 }
 
+
+button:hover{
+  background-color: yellow;
+}
+
 .burger-card{
 
 
 }
+
