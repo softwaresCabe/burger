@@ -35,10 +35,6 @@
 
   5. open localhost:8080 in browser
 
-  ## License
-
-  MIT license
-
   ## Contributing Guldlines
 
   * Your input is encouraged. Feel free to provide any of the following 
@@ -48,6 +44,10 @@
     - Proposing new features 
     - Becoming a maintainer
 
+  
+  ## License
+
+  MIT license
 
   ## Questions
   
