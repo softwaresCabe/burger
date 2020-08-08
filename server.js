@@ -11,6 +11,8 @@ app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
+app.use(express.static('views/images'));
+
 // Set Handlebars.
 var exphbs = require("express-handlebars");
 

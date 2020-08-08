@@ -1,9 +1,12 @@
-<li>
+<li class="burger-card">
 	<p>{{burger_name}} </p>
 
 	<button class="change-eat" data-id="{{id}}" data-neweat="{{devoured}}">
-		{{#if devoured}} Devour it! {{else}} Another Please!! {{/if}}
+		{{#if devoured}} Devour it ! {{else}} Another Please !! {{/if}}
 	</button>
 
-	<button class="delete-burger" data-id="{{this.id}}"> delete </button>
+	<button class="delete-burger d-flex justify-content-end" data-id="{{this.id}}" >
+		<img id= "delete-img" src="trashcan.png" alt="Delete burger" width="30px" height="30px">
+		
+	</button>
 </li>
