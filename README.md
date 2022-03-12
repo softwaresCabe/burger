@@ -2,7 +2,7 @@
   ## Eat A Burger
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  Use of express, handlebars, and mysql in node js demonstrate CRUD functionality with sql and a webpage. Project uses heroku to create a database of burgers accesable to all users. 
+  Use of express, handlebars, and mysql in node js demonstrate CUD functionality with sql and a webpage. Project uses heroku to create a database of burgers accesable to all users. 
 
   URL: https://eat-a-burger123.herokuapp.com/
 
